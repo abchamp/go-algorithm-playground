@@ -63,6 +63,7 @@ type Android struct {
 }
 
 // Rectangle and Circle has samething = area method
+// TODO:: read again
 // go has a way of making these accidental similarities explicit throught
 // a type known as  an interface. Here is a example of a Shape interface
 type Shape interface {

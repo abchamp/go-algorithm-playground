@@ -1,4 +1,4 @@
-package main
+package mytemplate
 
 import "fmt"
 
@@ -46,10 +46,10 @@ func (l *List) Print() {
 	}
 }
 
-func main() {
-	l := List{nil}
-	l.Push(0)
-	l.Push(9)
-	l.Push(20)
-	l.Print()
-}
+// func main() {
+// 	l := List{nil}
+// 	l.Push(0)
+// 	l.Push(9)
+// 	l.Push(20)
+// 	l.Print()
+// }

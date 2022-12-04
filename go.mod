@@ -1,3 +1,3 @@
-module abchamp/mygo/pg
+module abchamp/myalgor
 
 go 1.19
